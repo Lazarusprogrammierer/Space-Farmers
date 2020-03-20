@@ -1,0 +1,38 @@
+Spacer Farmers
+
+Mechs + Landwirtschafts Simulator + Überlebenskampf mit Wellen (Aliens)
+angelehnt an “Love Death and Robots”
+Kolonien auf Fremden Planeten denn Menschheit braucht Nahrung. Die Kapazitäten auf der Erde sind für die Menge an menschen aufgebraucht. Auf den Planeten gibt es Aliens die diese Kolonien angreifen.
+
+Genre: FPS, Survival, Farming, RPG 
+Game Engine: Unity
+2 Phasen Gameplay
+
+#1 Farmphase
+    !Um eigenen Bauernhof kümmern!
+    -Felder bepflanzen
+    -Gebäude Bau(upgraden)
+    -Tiere
+    -(Wirtschaftssystem)
+    -Crafting/Gold/Materialien
+    -Arbeiter(Automatisierung) = random Stats
+
+#2 Verteidigungsphase
+    !Alien-angriffe überleben!
+    -Mechs mit Waffen(verbessern)
+    -Fallen
+    -Turrets
+    -Loot
+
+Ziele: Spieler durch Leveln im Spiel behalten
+    Hartes Gameplay -> Wiederspielwert
+(man behält bestimmte Dinge nach dem Tod)
+(Wellen Überleben wie COD Zombies aber mit längeren Pausen)
+
+
+GrundObjekte:
+Terrain / Spieler(Mech) / Gebäude / Farmobjekts / Aliens
+GrundSysteme:
+Wirtschaft / KI / Menüs / HUD / Spieler
+
+Modelle-Grafik-Sound-Programmierung-Animationen
